@@ -1,3 +1,2 @@
 # Tutorial GIT
-
-## git commit
+Bienvenido a la guía git.
