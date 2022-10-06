@@ -16,3 +16,4 @@ con un porrito en la mano yo me lo lioooo p
 FIRMADO CLUB DEL PETA
 Firmao el PANCHI
 Vicentica
+moises el de clase
