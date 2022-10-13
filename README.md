@@ -2,11 +2,11 @@
 ## Bienvenido a la guía git.
 La siguiente guía va a ser realizada por: Carles, Angel, Jorge y Alex.
 
+## git pull
+Este comando obtiene e integra con otro repositorio o una branca local.
 
-## comando git bisect
+## git push
+Este comando actualiza las referencias remotas conjuntamente con los objetos asociados.
 
-## comando git tag
-
-## tonterias
-
-
+## git clone
+Clona un repositorio a un directorio nuevo.
