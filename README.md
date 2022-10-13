@@ -11,6 +11,5 @@ Este comando actualiza las referencias remotas conjuntamente con los objetos aso
 ## git clone
 Clona un repositorio a un directorio nuevo.
 
-
 ## git commit
 Registra los cambios al repositorio
